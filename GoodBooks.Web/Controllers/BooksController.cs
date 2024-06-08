@@ -20,14 +20,21 @@ namespace GoodBooks.Web.Controllers
         }
 
         [HttpGet("api/books")]
-        public ActionResult Get()
+        public ActionResult GetBooks()
         {
             var books = _bookService.GetAllBooks();
             return Ok(books);
         }
 
+        [HttpGet("api/books/{id}")]
+        public ActionResult GetBookById(int id) 
+        {
+            var book = _bookService.GetBook(id);
+            return Ok(book);            
+        }
+
         [HttpPost("api/books")]
-        public ActionResult Get([FromBody] NewBookRequest bookRequest)
+        public ActionResult SaveBook([FromBody] NewBookRequest bookRequest)
         {
             var now = DateTime.UtcNow;
             var book = new Book
@@ -41,6 +48,13 @@ namespace GoodBooks.Web.Controllers
             _bookService.SaveBook(book);
 
             return Ok($"created book: {book.Title}");
+        }
+
+        [HttpDelete("api/books/{id}")]
+        public ActionResult DeleteBook(int id)
+        {
+            _bookService.DeleteBook(id);
+            return Ok("Successfully deleted");
         }
     }
 }

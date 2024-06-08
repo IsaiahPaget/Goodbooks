@@ -20,6 +20,7 @@ namespace GoodBooks.Services
                 throw new InvalidOperationException("Cannot delete book that does not exist");
             }
             _db.Remove(bookToDelete);
+            _db.SaveChanges();
         }
 
         public List<Book> GetAllBooks()
