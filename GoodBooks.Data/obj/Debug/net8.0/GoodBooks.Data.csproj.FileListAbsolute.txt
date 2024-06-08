@@ -1,0 +1,12 @@
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\bin\Debug\net8.0\GoodBooks.Data.deps.json
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\bin\Debug\net8.0\GoodBooks.Data.dll
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\bin\Debug\net8.0\GoodBooks.Data.pdb
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\GoodBooks.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\GoodBooks.Data.AssemblyInfoInputs.cache
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\GoodBooks.Data.AssemblyInfo.cs
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\GoodBooks.Data.csproj.CoreCompileInputs.cache
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\GoodBooks.Data.dll
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\refint\GoodBooks.Data.dll
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\GoodBooks.Data.pdb
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\ref\GoodBooks.Data.dll
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\GoodBooks.Data.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\bin\Debug\net8.0\GoodBooks.Services.deps.json
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\bin\Debug\net8.0\GoodBooks.Services.dll
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\bin\Debug\net8.0\GoodBooks.Services.pdb
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\bin\Debug\net8.0\GoodBooks.Data.dll
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\bin\Debug\net8.0\GoodBooks.Data.pdb
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\GoodBooks.Services.csproj.AssemblyReference.cache
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\GoodBooks.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\GoodBooks.Services.AssemblyInfoInputs.cache
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\GoodBooks.Services.AssemblyInfo.cs
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\GoodBooks.Services.csproj.CoreCompileInputs.cache
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\GoodBook.606E74EE.Up2Date
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\GoodBooks.Services.dll
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\refint\GoodBooks.Services.dll
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\GoodBooks.Services.pdb
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\ref\GoodBooks.Services.dll
+C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Services\obj\Debug\net8.0\GoodBooks.Services.sourcelink.json
