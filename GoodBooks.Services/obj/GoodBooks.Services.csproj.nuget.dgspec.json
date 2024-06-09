@@ -82,7 +82,7 @@
         "projectName": "GoodBooks.Services",
         "projectPath": "C:\\Users\\IsaiahPaget\\Documents\\GoodBooks\\GoodBooks.Services\\GoodBooks.Services.csproj",
         "packagesPath": "C:\\Users\\IsaiahPaget\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Services\\obj\\",
+        "outputPath": "C:\\Users\\IsaiahPaget\\Documents\\GoodBooks\\GoodBooks.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IsaiahPaget\\AppData\\Roaming\\NuGet\\NuGet.Config",

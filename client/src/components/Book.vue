@@ -1,16 +1,16 @@
 <script setup lang="ts">
-defineProps<{Title: string, Author: string}>();
+import { TBook } from '../Models/TBook';
+
+defineProps<{book: TBook}>();
 </script>
 
 <template>
-    <div class="card">
         <h3>
-            {{ Title }}
+            {{ book.Title }}
         </h3>
         <p>
-            {{ Author }}
+            {{ book.Author }}
         </p>
-    </div>
 </template>
 
 <style scoped>

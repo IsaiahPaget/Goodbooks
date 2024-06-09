@@ -1,21 +1,42 @@
 <script setup lang="ts">
-import Button from './Button.vue'
-const handleSubmit = () => {
-    console.log("stuff")
+import { ref } from 'vue';
+import { TBook } from '../Models/TBook';
+const Title = ref("")
+const Author = ref("")
+const emit = defineEmits(["onSubmit"])
+function clearInputs() {
+    Title.value = ""
+    Author.value = ""
+}
+function validateInput(book: TBook): boolean {
+    if (book.Title === "" || book.Author === "") {
+        return false
+    }
+    return true
+}
+function sendValuesUp(book: TBook) {
+    if (!validateInput(book)) {
+        alert("Not Valid Input")
+        return
+    }
+    emit('onSubmit', book)
+    clearInputs()
 }
 </script>
 
 <template>
     <form class="container card">
         <div>
-            <p>Title</p>
-            <input />
+            <label>Title</label>
+            <input type="text" v-model="Title" required/>
         </div>
         <div>
-            <p>Author</p>
-            <input />
+            <label>Author</label>
+            <input type="text" v-model="Author" required/>
         </div>
-        <Button @on-click="handleSubmit" class="submit" text="submit"/>
+        <button @click.prevent="sendValuesUp({Title: Title, Author: Author})" class="submit">
+            <span>Submit</span>
+        </button>
     </form>
 </template>
 

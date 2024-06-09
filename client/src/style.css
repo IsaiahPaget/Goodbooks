@@ -59,6 +59,12 @@ button.delete {
   color: white;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
 button.submit {
   background-color: dodgerblue;
   color: white;
