@@ -1,4 +1,7 @@
 export type TBook = {
-    Title: string,
-    Author: string,
+    id: number,
+    title: string,
+    author: string,
+    createdOn: string,
+    updatedOn: string,
 }

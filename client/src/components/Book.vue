@@ -6,10 +6,10 @@ defineProps<{book: TBook}>();
 
 <template>
         <h3>
-            {{ book.Title }}
+            {{ book.title }}
         </h3>
         <p>
-            {{ book.Author }}
+            {{ book.author }}
         </p>
 </template>
 

@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import Books from './components/Books.vue'
+  import { RouterView } from 'vue-router';
 </script>
 
 <template>
   <h1>
     Good Books
   </h1>
-  <Books />
+  <RouterView />
 </template>
 
 <style scoped>

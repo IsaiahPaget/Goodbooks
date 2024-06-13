@@ -10,3 +10,4 @@ C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\refint\
 C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\GoodBooks.Data.pdb
 C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\ref\GoodBooks.Data.dll
 C:\Users\IsaiahPaget\Documents\Goodbooks\GoodBooks.Data\obj\Debug\net8.0\GoodBooks.Data.csproj.AssemblyReference.cache
+C:\Users\IsaiahPaget\Documents\GoodBooks\GoodBooks.Data\obj\Debug\net8.0\GoodBooks.Data.sourcelink.json

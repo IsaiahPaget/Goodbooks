@@ -7,42 +7,6 @@
       "RelativeMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|solutionrelative:goodbooks.web\\requestmodels\\newbookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|solutionrelative:goodbooks.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B019D39-0387-4D42-B87D-90E44569D874}|GoodBooks.Services\\GoodBooks.Services.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B019D39-0387-4D42-B87D-90E44569D874}|GoodBooks.Services\\GoodBooks.Services.csproj|solutionrelative:goodbooks.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.data\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|solutionrelative:goodbooks.data\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B019D39-0387-4D42-B87D-90E44569D874}|GoodBooks.Services\\GoodBooks.Services.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B019D39-0387-4D42-B87D-90E44569D874}|GoodBooks.Services\\GoodBooks.Services.csproj|solutionrelative:goodbooks.services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|solutionrelative:goodbooks.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|solutionrelative:goodbooks.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.data\\goodbooksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|solutionrelative:goodbooks.data\\goodbooksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.data\\migrations\\20240608062737_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|solutionrelative:goodbooks.data\\migrations\\20240608062737_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.data\\migrations\\goodbooksdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|solutionrelative:goodbooks.data\\migrations\\goodbooksdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.web\\goodbooks.web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|solutionrelative:goodbooks.web\\goodbooks.web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
@@ -51,12 +15,48 @@
       "RelativeMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|solutionrelative:goodbooks.web\\goodbooks.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|solutionrelative:goodbooks.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|solutionrelative:goodbooks.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B019D39-0387-4D42-B87D-90E44569D874}|GoodBooks.Services\\GoodBooks.Services.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.services\\goodbooks.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7B019D39-0387-4D42-B87D-90E44569D874}|GoodBooks.Services\\GoodBooks.Services.csproj|solutionrelative:goodbooks.services\\goodbooks.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.data\\goodbooksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|solutionrelative:goodbooks.data\\goodbooksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.data\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|solutionrelative:goodbooks.data\\models\\bookreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|solutionrelative:goodbooks.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B019D39-0387-4D42-B87D-90E44569D874}|GoodBooks.Services\\GoodBooks.Services.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B019D39-0387-4D42-B87D-90E44569D874}|GoodBooks.Services\\GoodBooks.Services.csproj|solutionrelative:goodbooks.services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B019D39-0387-4D42-B87D-90E44569D874}|GoodBooks.Services\\GoodBooks.Services.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B019D39-0387-4D42-B87D-90E44569D874}|GoodBooks.Services\\GoodBooks.Services.csproj|solutionrelative:goodbooks.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|solutionrelative:goodbooks.web\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.data\\migrations\\goodbooksdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|solutionrelative:goodbooks.data\\migrations\\goodbooksdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.data\\migrations\\20240608062737_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5266B069-AEF6-470D-B852-EBDA8F35342D}|GoodBooks.Data\\GoodBooks.Data.csproj|solutionrelative:goodbooks.data\\migrations\\20240608062737_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|c:\\users\\isaiahpaget\\documents\\goodbooks\\goodbooks.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3666072F-2BC4-4996-913C-DCE852E5F6FC}|GoodBooks.Web\\GoodBooks.Web.csproj|solutionrelative:goodbooks.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,23 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GoodBooks.Web.http",
-              "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Web\\GoodBooks.Web.http",
-              "RelativeDocumentMoniker": "GoodBooks.Web\\GoodBooks.Web.http",
-              "ToolTip": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Web\\GoodBooks.Web.http",
-              "RelativeToolTip": "GoodBooks.Web\\GoodBooks.Web.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-06-08T05:52:08.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "GoodBooks.Web.csproj",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\GoodBooks\\GoodBooks.Web\\GoodBooks.Web.csproj",
               "RelativeDocumentMoniker": "GoodBooks.Web\\GoodBooks.Web.csproj",
@@ -94,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Web\\Program.cs",
               "RelativeDocumentMoniker": "GoodBooks.Web\\Program.cs",
@@ -106,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "GoodBooks.Services.csproj",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\GoodBooks\\GoodBooks.Services\\GoodBooks.Services.csproj",
               "RelativeDocumentMoniker": "GoodBooks.Services\\GoodBooks.Services.csproj",
@@ -118,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "GoodBooksDBContext.cs",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Data\\GoodBooksDBContext.cs",
               "RelativeDocumentMoniker": "GoodBooks.Data\\GoodBooksDBContext.cs",
@@ -130,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BookReview.cs",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Data\\Models\\BookReview.cs",
               "RelativeDocumentMoniker": "GoodBooks.Data\\Models\\BookReview.cs",
@@ -142,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Data\\Models\\Book.cs",
               "RelativeDocumentMoniker": "GoodBooks.Data\\Models\\Book.cs",
@@ -154,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Services\\IBookService.cs",
               "RelativeDocumentMoniker": "GoodBooks.Services\\IBookService.cs",
@@ -166,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Services\\BookService.cs",
               "RelativeDocumentMoniker": "GoodBooks.Services\\BookService.cs",
@@ -178,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Web\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "GoodBooks.Web\\Controllers\\BooksController.cs",
@@ -203,7 +191,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "GoodBooks.Web.http",
+              "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Web\\GoodBooks.Web.http",
+              "RelativeDocumentMoniker": "GoodBooks.Web\\GoodBooks.Web.http",
+              "ToolTip": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Web\\GoodBooks.Web.http",
+              "RelativeToolTip": "GoodBooks.Web\\GoodBooks.Web.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-08T05:52:08.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "GoodBooksDBContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Data\\Migrations\\GoodBooksDBContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "GoodBooks.Data\\Migrations\\GoodBooksDBContextModelSnapshot.cs",
@@ -215,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "20240608062737_Initial.cs",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Data\\Migrations\\20240608062737_Initial.cs",
               "RelativeDocumentMoniker": "GoodBooks.Data\\Migrations\\20240608062737_Initial.cs",
@@ -227,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\IsaiahPaget\\Documents\\Goodbooks\\GoodBooks.Web\\appsettings.json",
               "RelativeDocumentMoniker": "GoodBooks.Web\\appsettings.json",

@@ -9,12 +9,19 @@ function clearInputs() {
     Author.value = ""
 }
 function validateInput(book: TBook): boolean {
-    if (book.Title === "" || book.Author === "") {
+    if (book.title === "" || book.author === "") {
         return false
     }
     return true
 }
-function sendValuesUp(book: TBook) {
+function sendValuesUp(title: string, author: string) {
+    const book: TBook = {
+        id: 0,
+        title: title,
+        author: author,
+        createdOn: "",
+        updatedOn: ""
+    }
     if (!validateInput(book)) {
         alert("Not Valid Input")
         return
@@ -34,7 +41,7 @@ function sendValuesUp(book: TBook) {
             <label>Author</label>
             <input type="text" v-model="Author" required/>
         </div>
-        <button @click.prevent="sendValuesUp({Title: Title, Author: Author})" class="submit">
+        <button @click.prevent="sendValuesUp(Title, Author)" class="submit">
             <span>Submit</span>
         </button>
     </form>
